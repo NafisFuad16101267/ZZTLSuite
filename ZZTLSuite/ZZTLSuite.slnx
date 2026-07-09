@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../ZZTLSuite.Application/ZZTLSuite.Application.csproj" />
+  <Project Path="../ZZTLSuite.Domain/ZZTLSuite.Domain.csproj" />
+  <Project Path="../ZZTLSuite.Infrastructure/ZZTLSuite.Infrastructure.csproj" />
   <Project Path="ZZTLSuite.csproj" />
 </Solution>
